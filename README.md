@@ -1,16 +1,19 @@
-### Hi there 👋
+### print("Hello World!) 🤖
+- 📚 Estudante de Ciências da Computação no IFCE - Campus Maracanaú
+- ⚙️ Atualmente aprendendo Python e JavaScript
+- 🌱 Sempre em buscar de aprimorar meus conhecimentos e habilidade
 
-<!--
-**Paul0Jr/Paul0Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+Tecnologias e Skills: 
+<div>
+    <img aling="center" alt="Paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img aling="center" alt="Paulo-C" height="30" width="40" src="https://camo.githubusercontent.com/910e9fa5713f0f2aa489815db1897e5698c6bfc66af3d123b2912a269ff98ae7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d6f726967696e616c2e737667">
+    <img aling="center" alt="Paulo-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img aling="center" alt="Paulo-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+</div>
 
-Here are some ideas to get you started:
+---
+- 📫 Contato: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pjunior954@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-sérgio-50b02b228/)
