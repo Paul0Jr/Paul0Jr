@@ -1,4 +1,4 @@
-### print("Hello World!) 🤖
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=64FF16&size=35&right=true&vCenter=true&width=1000&lines=print("Hello+World!");I'm+Paulo!;Currently+studying+Cience+Computer;Be+Welcome!:%29)](https://git.io/typing-svg)
 - 📚 Estudante de Ciências da Computação
 - ⚙️ Atualmente aprendendo Python e JavaScript
 - 🌱 Sempre em buscar de aprimorar meus conhecimentos e habilidade
