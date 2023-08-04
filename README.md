@@ -1,18 +1,17 @@
-### print("Hello World") <img src="https://user-images.githubusercontent.com/88801243/199815257-318033b3-ab91-4f0e-a69e-9a949aed5790.gif" width="30">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=745c8c&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=82669D&size=25&right=true&vCenter=true&width=1000&lines=I'm+Paulo!;Currently+studying+Cience+Computer;Be+Welcome!:%29)](https://git.io/typing-svg)
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="190"/>
+    <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="230"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=64FF16&size=25&right=true&vCenter=true&width=1000&lines=I'm+Paulo!;Currently+studying+Cience+Computer;Be+Welcome!:%29)](https://git.io/typing-svg)
+<br>
+
 - 📚 Estudante de Ciências da Computação
 - ⚙️ Atualmente aprendendo JavaScript
 - 🌱 Sempre em buscar de aprimorar meus conhecimentos e habilidade
 
 
-<div>
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=paul0jr&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul0jr&layout=compact&langs_count=16&theme=chartreuse-dark"/>
-</div>
 <br>
 
 <div  align="center"> 
@@ -29,15 +28,28 @@
     <img align="center" height="30" width="40" alt="csharp-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+      <br>
    </div>
+    
+<br>
+<div align="center">
+    <br>
+  <a href="https://github.com/paul0jr">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=paul0jr&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul0jr&layout=compact&langs_count=7&theme=material-palenight"
+  />
+</div>
 
-<p>
   <br>
   <br>
     <h1 align="center"> Contato <img height="30" alt="skills" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"></h1>
     <a href = "mailto:pjunior954@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/paulo-sérgio-50b02b228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
     <a href="https://www.instagram.com/paulo.jr4/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
-</p>
 
-![Snake animation](https://github.com/Paul0Jr/Paul0jr/blob/output/github-contribution-grid-snake.svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=745c8c&height=120&section=footer"/>
