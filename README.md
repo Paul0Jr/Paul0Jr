@@ -36,11 +36,11 @@
     <br>
   <a href="https://github.com/paul0jr">
   <img
-    height="160em"
+    height="140em"
     src="https://github-readme-stats.vercel.app/api?username=paul0jr&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"
   />
   <img
-    height="160em"
+    height="140em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul0jr&layout=compact&langs_count=7&theme=material-palenight"
   />
 </div>
