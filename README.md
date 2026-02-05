@@ -37,6 +37,8 @@ I am a **Computer Science student** from Brazil with a genuine passion for techn
 ### 💪 Technologies
 
 <div align="center">
+  <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#"/>
+  <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" title=".NET"/>
   <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/>
   <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" title="Java"/>
   <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL"/>
@@ -46,10 +48,7 @@ I am a **Computer Science student** from Brazil with a genuine passion for techn
 ### 📚 Currently Learning
 
 <div align="center">
-  <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#"/>
-  <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" title=".NET"/>
   <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/>
-  <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
 </div>
 
 ### 🎓 Tools & Platforms
@@ -67,8 +66,8 @@ I am a **Computer Science student** from Brazil with a genuine passion for techn
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paul0Jr&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul0Jr&layout=compact&langs_count=10&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=paul0jr&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul0jr&layout=compact&langs_count=10&theme=tokyonight" height="165"/>
 </div>
 
 ---
