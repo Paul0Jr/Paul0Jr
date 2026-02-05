@@ -88,16 +88,16 @@ I am a **Computer Science student** from Brazil with a genuine passion for techn
 <div align="center">
   <h3>Get In Touch</h3>
   <a href="mailto:pjunior954@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=dark" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/paul0sjr" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=dark" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/paulo.jr4/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=dark" alt="Instagram"/>
   </a>
   <a href="https://github.com/paul0jr" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=dark" alt="GitHub"/>
   </a>
 </div>
 
