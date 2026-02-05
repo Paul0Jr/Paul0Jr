@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá,+sou+Paulo+Sérgio!+👋;Dev+em+Desenvolvimento;Always+Learning..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+I'm+Paulo+Sérgio!+👋;Computer+Science+Student+💻;Always+Learning+and+Growing+🚀" alt="Typing SVG" />
   </h1>
 </div>
 
@@ -12,23 +12,21 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Coding"/>
 
-```javascript
-const paulo = { education: "Computer Science Student", location: "Brazil 🇧🇷", currentFocus: "C# | .NET | Web Development", interests: ["Software Development", "Problem Solving", "Backend Development", "Best Practices"], mindset: "Continuous learning and growth", goals: "Building scalable and impactful solutions" };
-```
+I am a **Computer Science student** from Brazil with a genuine passion for technology and software development. Currently focused on expanding my expertise in **C#** and the **.NET ecosystem**. I'm dedicated to becoming a well-rounded developer through continuous learning, mastering design patterns, and following best practices in clean code development.
 
 <details>
-  <summary><b>Mais sobre mim</b></summary>
+  <summary><b>More about me</b></summary>
 
-- 📚 Estudante de **Ciência da Computação** com paixão genuína por tecnologia
-- ⚙️ Aprofundando conhecimentos em **C#** e ecossistema **.NET**
-- 🌱 Sempre buscando melhorar técnicas de desenvolvimento e arquitetura de software
-- 💡 Entusiasta em padrões de design, clean code e boas práticas
-- 🎯 Dedicado a se tornar um desenvolvedor polivalente e competente
-- 🚀 Contribuinte ativo em projetos pessoais e aprendizado colaborativo
+- 📚 Studying **Computer Science** with genuine passion for technology
+- ⚙️ Deepening my knowledge in **C#** and the **.NET** ecosystem
+- 🌱 Constantly seeking to improve development techniques and software architecture
+- 💡 Enthusiast about design patterns, clean code, and best practices
+- 🎯 Dedicated to becoming a versatile and competent developer
+- 🚀 Active contributor to personal projects and collaborative learning
 
 </details>
 
@@ -36,7 +34,7 @@ const paulo = { education: "Computer Science Student", location: "Brazil 🇧�
 
 ## 🛠️ Tech Stack
 
-### 💪 Tecnologias que Domino
+### 💪 Technologies I Master
 
 <div align="center">
   <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/>
@@ -45,7 +43,7 @@ const paulo = { education: "Computer Science Student", location: "Brazil 🇧�
   <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>
 </div>
 
-### 📚 Atualmente Aprendendo
+### 📚 Currently Learning
 
 <div align="center">
   <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#"/>
@@ -54,7 +52,7 @@ const paulo = { education: "Computer Science Student", location: "Brazil 🇧�
   <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C"/>
 </div>
 
-### 🎓 Outras Ferramentas
+### 🎓 Tools & Platforms
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
@@ -65,48 +63,18 @@ const paulo = { education: "Computer Science Student", location: "Brazil 🇧�
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/paul0jr">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=paul0jr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=10&line_height=27" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/paul0jr">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul0jr&layout=compact&langs_count=8&theme=midnight-purple&border_radius=10" alt="Top Languages"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paul0jr&theme=midnight-purple&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paul0jr&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🎯 Projetos em Destaque
+## 🤝 Let's Connect!
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>Projeto 1</h3>
-        <p>Descrição do seu projeto principal</p>
-        <a href="https://github.com/paul0jr">🔗 Ver Repositório</a>
-      </td>
-      <td align="center" width="50%">
-        <h3>Projeto 2</h3>
-        <p>Descrição do seu outro projeto</p>
-        <a href="https://github.com/paul0jr">🔗 Ver Repositório</a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🤝 Vamos Conectar!
-
-<div align="center">
-  <h3>Entre em Contato</h3>
+  <h3>Get In Touch</h3>
   <a href="mailto:pjunior954@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
