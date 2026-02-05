@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines= Hello,+I'm+Paulo+Sérgio!+👋; Computer+Science+Student+💻; Always+Learning+and+Growing+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+I'm+Paulo+Sérgio!+👋;Computer+Science+Student+💻;Always+Learning+and+Growing+🚀" alt="Typing SVG" />
   </h1>
 </div>
 
