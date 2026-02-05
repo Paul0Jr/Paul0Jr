@@ -14,8 +14,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Coding"/>
-
 I am a **Computer Science student** from Brazil with a genuine passion for technology and software development. Currently focused on expanding my expertise in **C#** and the **.NET ecosystem**. I'm dedicated to becoming a well-rounded developer through continuous learning, mastering design patterns, and following best practices in clean code development.
 
 <details>
