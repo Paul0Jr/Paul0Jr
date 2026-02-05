@@ -66,8 +66,19 @@ I am a **Computer Science student** from Brazil with a genuine passion for techn
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paul0jr&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul0jr&layout=compact&langs_count=10&theme=tokyonight" height="165"/>
+  <a href="https://github.com/paul0jr">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=paul0jr&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/paul0jr">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paul0jr&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paul0jr&theme=github_dark" alt="GitHub Profile"/>
 </div>
 
 ---
