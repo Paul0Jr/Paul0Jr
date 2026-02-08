@@ -84,18 +84,11 @@ I am a **Computer Science student** from Brazil with a genuine passion for techn
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <h3>Get In Touch</h3>
-  <a href="mailto:pjunior954@gmail.com" target="_blank">
+  <a href="mailto:psjuniordev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/paul0sjr" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/paulo.jr4/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/paul0jr" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
