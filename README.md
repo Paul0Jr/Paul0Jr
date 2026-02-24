@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+I'm+Paulo+Sérgio!+👋;Computer+Science+Student+💻;Always+Learning+and+Growing+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello,+I'm+Paulo+Sérgio!+👋;Computer+Science+Student+💻;Always+Learning+and+Growing+" alt="Typing SVG" />
   </h1>
 </div>
 
@@ -70,13 +70,13 @@ alt="NodeJS" title="NodeJS"/>
 
 <div align="center">
   <a href="https://github.com/paul0jr">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=paul0jr&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
+    <img src="https://my-repository-azure-tau-27.vercel.app/api/?username=paul0jr&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/paul0jr">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paul0jr&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
+    <img src="https://my-repository-azure-tau-27.vercel.app/api/top-langs/?username=paul0jr&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
   </a>
 </div>
 
